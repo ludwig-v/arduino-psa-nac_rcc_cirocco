@@ -1,0 +1,1 @@
+## Don't use on CIROCCO having SW < 20.0 (sticker), you will brick it
